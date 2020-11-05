@@ -26,6 +26,10 @@ Users will have the choice of storing their data locally on their devices, on ou
 
 ## Project Status
 
+Family Tree Explorer was formally ideated on Github on the 5th of November, 2020
+The project invites any willing Product Owners, Designers, and Engineers.
+
+
 ## 🛡️ Core Team
 
 ### ⚓ Product Owners
