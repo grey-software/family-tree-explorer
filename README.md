@@ -30,20 +30,28 @@ Family Tree Explorer was formally ideated on Github on the 5th of November, 2020
 The project invites any willing Product Owners, Designers, and Engineers.
 
 
-## 🛡️ Core Team
+## 🛡️ Team
 
 ### ⚓ Product Owners
 
 [Arsala](https://github.com/ArsalaBangash)
 
+[Join our community](http://community.grey.software) and [learn how to contribute](https://grey.software/contribute)
+
 ### 🖌 Designers
 
 [Join our community](http://community.grey.software) and [learn how to contribute](https://grey.software/contribute)
+
+We are open to you using any tool of your choice to help us prototype.
 
 ### 🛠️ Engineers
 
 [Join our community](http://community.grey.software) and [learn how to contribute](https://grey.software/contribute)
 
-<div align="center">
-    <img alt="Grey Software Sticker" width="500" src="https://grey.software/grey-software-sticker.png">
-</div>
+In our tech stack, the [Quasar](https://quasar.dev) and [Nuxt](https://nuxtjs.org) web frameworks provide advanced [Vue.js](https://cssc.utm.utoronto.ca/resources/vue) functionality on top of [HTML](https://cssc.utm.utoronto.ca/resources/html), [CSS](https://cssc.utm.utoronto.ca/resources/css), and [JS](https://cssc.utm.utoronto.ca/resources/javascript). 
+
+## Made with Love, Joy, and Hope
+
+This project was ideated and developed at Grey Software, a not-for-profit organization that empowers students to build open-source software for their communities and societies.
+
+<img alt="Grey Software Sticker" width="500" src="https://grey.software/grey-software-sticker.png">
